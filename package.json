@@ -1,5 +1,5 @@
 {
-  "name": "hey-rajiv",
+  "name": "ciao-rajiv",
   "version": "1.0.0",
   "description": "A short description about myself in the form of an npm package",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "hey-rajiv": "index.js"
+    "ciao-rajiv": "index.js"
   },
   "keywords": [
     "hey",
