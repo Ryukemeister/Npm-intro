@@ -2,7 +2,6 @@
 
 // function to log my intro in the terminal
 function greetUser() {
-  const message = "Hey there, I'm Rajiv, a frontend engineer at BoxyHQ!";
   const github = "https://github.com/Ryukemeister/";
   const linkedIn = "https://in.linkedin.com/in/rajiv-sahal-a18251193";
   const twitter = "https://twitter.com/sahal_rajiv";
