@@ -1,7 +1,7 @@
 {
   "name": "hey-rajiv",
   "version": "1.0.0",
-  "description": "A short description about myself in the form of an npm package ",
+  "description": "A short description about myself in the form of an npm package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,6 @@
     "hey",
     "rajiv"
   ],
-  "author": "Rajiv Sahal",
+  "author": "Rajiv Sahal <sahalrajiv2000@gmail.com>",
   "license": "ISC"
 }
