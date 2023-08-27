@@ -1,6 +1,6 @@
 {
   "name": "ciao-rajiv",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A short description about myself in the form of an npm package",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "ciao-rajiv": "index.js"
   },
   "keywords": [
-    "hey",
+    "ciao",
     "rajiv"
   ],
   "author": "Rajiv Sahal <sahalrajiv2000@gmail.com>",

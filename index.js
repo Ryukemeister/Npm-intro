@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // function to log my intro in the terminal
-function greetUser() {
+function greet() {
   const github = "https://github.com/Ryukemeister/";
   const linkedIn = "https://in.linkedin.com/in/rajiv-sahal-a18251193";
   const twitter = "https://twitter.com/sahal_rajiv";
@@ -23,4 +23,4 @@ Twitter - ${green}${twitter} ${white}
   );
 }
 
-greetUser();
+greet();
