@@ -1,3 +1,3 @@
-# Welcome to my npm intro
+# Welcome to my npm intro!
 
-This is where you'll find me from your terminal!
+This is where you'll find me from your terminal.
