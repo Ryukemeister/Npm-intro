@@ -13,7 +13,7 @@ function logDescription() {
 
   console.log(
     `
-Hey there I'm ${pink}Rajiv${white}, a frontend engineer at ${pink}BoxyHQ!${white} I like to ${pink}build${white} bridges between ${pink}aesthetics${white} and ${pink}interactivity${white} on the web, making it a ${pink}prettier${white} place one line of code at a time.
+Hey there I'm ${pink}Rajiv${white}, a software engineer at ${pink}Cal.com!${white} I like to ${pink}build${white} bridges between ${pink}aesthetics${white} and ${pink}interactivity${white} on the web, making it a ${pink}prettier${white} place one line of code at a time.
 If you're ${pink}nosy${white} like me, my ${pink}socials${white} are just a click away!
 
 GitHub - ${green}${github} ${white}
